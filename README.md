@@ -15,7 +15,7 @@ concession pour vente de bateau
     CD in your resources/[esx] folder
     Clone the repository
 
-git clone https://github.com/FXServer-ESX/fxserver-esx_vehicleshop esx_vehicleshop
+git clone https://github.com/cedricalpatch/esx_dockshop/archive/master.zip esx_dockshop
 
     Import esx_dockshop.sql in your database
 
