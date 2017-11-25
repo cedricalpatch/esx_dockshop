@@ -91,5 +91,5 @@ INSERT INTO dock (name, model, price, category) VALUES
   ('Yacht Toro','toro2',15000,'dock'),
   ('Toro','toro',15000,'dock'),
   ('Jetmax','jetmax',17500,'dock'),
-  ('Volier Marquis','marquis',45500,'dock')
+  ('Voilier Marquis','marquis',45500,'dock')
 ;
