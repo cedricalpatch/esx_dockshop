@@ -81,7 +81,7 @@ INSERT INTO dock (name, model, price, category) VALUES
   ('Seashark','seashark',1500,'dock'),
   ('Seashark2','seashark2',1500,'dock'),
   ('Yacht Seashark','seashark3',1500,'dock'),
-  ('Suntrap','suntrap',1500,'dock')
+  ('Suntrap','suntrap',1500,'dock'),
   ('Dinghy','dinghy',2500,'dock'),
   ('Dinghy2 ','dinghy2',2500,'dock'),
   ('Yacht Dinghy','dinghy4',1500,'dock'),
